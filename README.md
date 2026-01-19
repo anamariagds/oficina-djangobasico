@@ -7,3 +7,6 @@
 - LANGUAGE_CODE = 'pt-br'
 
 - TIME_ZONE = 'America/Sao_Paulo'
+
+### branch "cria-app-02"
+> python manage.py startapp post
