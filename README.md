@@ -10,3 +10,4 @@
 
 ### branch "cria-app-02"
 > python manage.py startapp post
+- add post no settings.py
