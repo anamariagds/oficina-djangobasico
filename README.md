@@ -10,3 +10,7 @@
 
 ### branch "cria-app-02"
 > python manage.py startapp post
+
+### branch "primeira-view-03"
+- View que retorna texto simples
+- url 'home'
