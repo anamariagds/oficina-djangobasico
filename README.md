@@ -14,3 +14,11 @@
 ### branch "primeira-view-03"
 - View que retorna texto simples
 - url 'home'
+
+### branch "view-lista-post-04"
+- Apresentar admin
+- criar model de post
+> python manage.py magemigrations
+>python manage.py migrate
+- popular bd
+- View que lista posts criados
