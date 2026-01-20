@@ -25,3 +25,9 @@
 > python manage.py createsuperuser
 - popular bd
 - View que lista posts criados
+
+### branch 05
+- criar view que mostra todos os posts cadastrados
+- criar arquivo urls.py na app
+- criar url para a view
+- template simples que mostre todas as informações cadastradas
