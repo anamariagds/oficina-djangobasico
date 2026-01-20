@@ -18,7 +18,10 @@
 ### branch "view-lista-post-04"
 - Apresentar admin
 - criar model de post
+- Registrar model no admin
 > python manage.py magemigrations
->python manage.py migrate
+> python manage.py migrate
+#### Criar super usuário
+> python manage.py createsuperuser
 - popular bd
 - View que lista posts criados
