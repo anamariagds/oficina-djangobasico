@@ -31,3 +31,5 @@
 - criar arquivo urls.py na app
 - criar url para a view
 - template simples que mostre todas as informações cadastradas
+### branch desafio
+ - O desafio e instruções estão no arquivo desafio.md
