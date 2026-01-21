@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+    <h1><a href="/">Meu primeiro blog com Django</a></h1>
+</div>
+    {% for post in lista_de_posts %}
+        <div>
+            <h2><a href="">{{ post.titulo }}</a></h2>
+            <p>{{ post.texto|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+</body>
+</html>
