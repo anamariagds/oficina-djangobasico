@@ -1,4 +1,3 @@
-```markdown
 # Desafio: Criar View para Adicionar um Post no Blog
 
 ## 🎯 Objetivo
@@ -92,4 +91,3 @@ Você pode entregar este desafio seguindo as instruções abaixo:
 Boa prática! 🚀
 
 ---
-```
