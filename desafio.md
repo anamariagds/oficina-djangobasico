@@ -75,8 +75,6 @@ Ao final da tarefa, o blog deve permitir:
 - Acessar uma página para criar novos posts
 - Visualizar o novo post na lista existente do blog
 
-```
-
 ## 📌 Entrega do Desafio
 
 Você pode entregar este desafio seguindo as instruções abaixo:
@@ -93,3 +91,5 @@ Você pode entregar este desafio seguindo as instruções abaixo:
 
 Boa prática! 🚀
 
+---
+```
